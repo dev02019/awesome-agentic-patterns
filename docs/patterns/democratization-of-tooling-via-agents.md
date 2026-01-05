@@ -1,9 +1,10 @@
 ---
 title: Democratization of Tooling via Agents
 status: emerging
-authors: ["Jacob Jackson (Cursor)", "Alex Albert (Anthropic)"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Jacob Jackson (Cursor)", "Alex Albert (Anthropic)"]
 category: UX & Collaboration
-source: "Video Transcript (Time: 0:27:22-0:28:59)"
+source: "https://www.youtube.com/watch?v=BGgsoIgbT_Y"
 tags: [no-code, low-code, citizen-developer, tool-creation, business-users, automation, custom-software]
 ---
 

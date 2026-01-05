@@ -1,9 +1,10 @@
 ---
 title: AI-Assisted Code Review / Verification
 status: emerging
-authors: ["Aman Sanger (Cursor)"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Aman Sanger (Cursor)"]
 category: Feedback Loops
-source: "Video Transcript (Time: 0:08:45-0:09:41)"
+source: "https://www.youtube.com/watch?v=BGgsoIgbT_Y"
 tags: [code-review, verification, quality-assurance, human-ai-collaboration, trust, explainability, software-quality]
 ---
 

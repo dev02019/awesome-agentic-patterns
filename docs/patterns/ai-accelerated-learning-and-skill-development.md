@@ -1,9 +1,10 @@
 ---
 title: AI-Accelerated Learning and Skill Development
 status: validated-in-production
-authors: ["Lukas Möller (Cursor)", "Alex Albert (Anthropic)", "Jacob Jackson (Cursor)"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Lukas Möller (Cursor)", "Alex Albert (Anthropic)", "Jacob Jackson (Cursor)"]
 category: UX & Collaboration
-source: "Video Transcript (Time: 0:13:15-0:13:58, 0:17:14-0:18:08, 0:17:57-0:18:07)"
+source: "https://www.youtube.com/watch?v=BGgsoIgbT_Y"
 tags: [developer-productivity, learning, skill-acquisition, iteration, feedback, taste-development, education, junior-developer]
 ---
 

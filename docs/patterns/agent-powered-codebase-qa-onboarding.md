@@ -1,9 +1,10 @@
 ---
 title: Agent-Powered Codebase Q&A / Onboarding
 status: validated-in-production
-authors: ["Lukas Möller (Cursor)", "Aman Sanger (Cursor)"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Lukas Möller (Cursor)", "Aman Sanger (Cursor)"]
 category: Context & Memory
-source: "Video Transcript (Time: 0:03:58-0:04:15, 0:05:50-0:06:05)"
+source: "https://www.youtube.com/watch?v=BGgsoIgbT_Y"
 tags: [code-understanding, onboarding, q&a, retrieval, search, context-awareness, knowledge-base]
 ---
 
