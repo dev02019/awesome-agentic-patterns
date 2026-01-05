@@ -1,7 +1,8 @@
 ---
 title: Structured Output Specification
 status: established
-authors: ["Vercel AI Team"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Vercel AI Team"]
 category: "Reliability & Eval"
 source: "https://vercel.com/blog/what-we-learned-building-agents-at-vercel"
 tags: [structured-output, schema, validation, reliability, type-safety, integration]

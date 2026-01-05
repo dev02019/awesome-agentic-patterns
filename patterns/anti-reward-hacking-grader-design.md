@@ -1,7 +1,8 @@
 ---
 title: "Anti-Reward-Hacking Grader Design"
 status: "emerging"
-authors: ["Rogo Engineering Team", "Will Brown (OpenAI)"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Rogo Engineering Team", "Will Brown (OpenAI)"]
 category: "Reliability & Eval"
 source: "https://youtu.be/1s_7RMG4O4U"
 tags: [reward-hacking, grading, reinforcement-learning, adversarial-robustness, agent-rft]

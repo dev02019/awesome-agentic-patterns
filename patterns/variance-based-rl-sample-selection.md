@@ -1,7 +1,8 @@
 ---
 title: "Variance-Based RL Sample Selection"
 status: "emerging"
-authors: ["Theo (OpenAI Solutions Architect)", "Prashant (OpenAI RFT Team)"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Theo (OpenAI Solutions Architect)", "Prashant (OpenAI RFT Team)"]
 category: "Learning & Adaptation"
 source: "https://youtu.be/1s_7RMG4O4U"
 tags: [reinforcement-learning, sample-efficiency, variance, data-quality, agent-rft]

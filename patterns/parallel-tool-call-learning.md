@@ -1,7 +1,8 @@
 ---
 title: "Parallel Tool Call Learning"
 status: "emerging"
-authors: ["Sam Pretty (Cognition)", "Will Brown (OpenAI)"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Sam Pretty (Cognition)", "Will Brown (OpenAI)"]
 category: "Orchestration & Control"
 source: "https://youtu.be/1s_7RMG4O4U"
 tags: [parallelization, latency-optimization, tool-use, reinforcement-learning, performance]

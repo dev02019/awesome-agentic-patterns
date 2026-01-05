@@ -1,7 +1,8 @@
 ---
 title: Distributed Execution with Cloud Workers
 status: emerging
-authors: ["Dexter Horthy (HumanLayer)"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Dexter Horthy (HumanLayer)"]
 category: Orchestration & Control
 source_link: "https://claude.com/blog/building-companies-with-claude-code"
 tags: [distributed-systems, parallelization, cloud, worktrees, scalability, team-coordination]

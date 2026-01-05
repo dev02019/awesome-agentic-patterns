@@ -1,7 +1,8 @@
 ---
 title: Discrete Phase Separation
 status: emerging
-authors: ["Sam Stettner (Ambral)"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Sam Stettner (Ambral)"]
 category: Orchestration & Control
 source_link: "https://claude.com/blog/building-companies-with-claude-code"
 tags: [orchestration, planning, research, context-management, multi-model]

@@ -1,7 +1,8 @@
 ---
 title: Chain-of-Thought Monitoring & Interruption
 status: emerging
-authors: ["Tanner Jones (Vulcan)"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Tanner Jones (Vulcan)"]
 category: UX & Collaboration
 source_link: "https://claude.com/blog/building-companies-with-claude-code"
 tags: [monitoring, intervention, debugging, reasoning, ux]

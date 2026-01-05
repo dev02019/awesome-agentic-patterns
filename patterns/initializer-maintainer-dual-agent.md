@@ -1,7 +1,8 @@
 ---
 title: Initializer-Maintainer Dual Agent Architecture
 status: emerging
-authors: ["Anthropic Engineering Team"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Anthropic Engineering Team"]
 category: Orchestration & Control
 source: "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents"
 tags: [long-running-agents, session-handoff, lifecycle-specialization, project-bootstrap, incremental-development]

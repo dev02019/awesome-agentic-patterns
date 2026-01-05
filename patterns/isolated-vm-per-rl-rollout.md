@@ -1,7 +1,8 @@
 ---
 title: "Isolated VM per RL Rollout"
 status: "emerging"
-authors: ["Sam Pretty (Cognition)", "Devon Engineering Team"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Sam Pretty (Cognition)", "Devon Engineering Team"]
 category: "Security & Safety"
 source: "https://youtu.be/1s_7RMG4O4U"
 tags: [isolation, security, reinforcement-learning, infrastructure, state-management, agent-rft]
