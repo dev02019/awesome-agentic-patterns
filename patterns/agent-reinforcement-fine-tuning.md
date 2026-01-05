@@ -1,7 +1,8 @@
 ---
 title: "Agent Reinforcement Fine-Tuning (Agent RFT)"
 status: "emerging"
-authors: ["Will Brown (OpenAI)", "Theo (OpenAI Solutions Architect)"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Will Brown (OpenAI)", "Theo (OpenAI Solutions Architect)"]
 category: "Learning & Adaptation"
 source: "https://youtu.be/1s_7RMG4O4U"
 tags: [reinforcement-learning, fine-tuning, tool-use, multi-step-rl, agent-training, exploration]

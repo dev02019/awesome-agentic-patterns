@@ -1,7 +1,8 @@
 ---
 title: Feature List as Immutable Contract
 status: emerging
-authors: ["Anthropic Engineering Team"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Anthropic Engineering Team"]
 category: Orchestration & Control
 source: "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents"
 tags: [scope-control, acceptance-criteria, anti-scope-creep, long-running-agents, task-management]

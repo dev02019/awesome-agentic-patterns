@@ -1,7 +1,8 @@
 ---
 title: Progressive Complexity Escalation
 status: emerging
-authors: ["Vercel AI Team"]
+authors: ["Nikola Balic (@nibzard)"]
+based_on: ["Vercel AI Team"]
 category: "Orchestration & Control"
 source: "https://vercel.com/blog/what-we-learned-building-agents-at-vercel"
 tags: [capabilities, gradual-rollout, risk-management, evolution, adaptive-systems, complexity-management]
